@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\bin\Debug\ManipulandoArquivos2.exe.config
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\bin\Debug\ManipulandoArquivos2.exe
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\bin\Debug\ManipulandoArquivos2.pdb
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\obj\Debug\ManipulandoArquivos2.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\obj\Debug\ManipulandoArquivos2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\obj\Debug\ManipulandoArquivos2.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\obj\Debug\ManipulandoArquivos2.exe
+C:\Users\lab102a\source\repos\ManipulandoArquivos2\ManipulandoArquivos2\obj\Debug\ManipulandoArquivos2.pdb

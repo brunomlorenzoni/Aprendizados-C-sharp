@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/OitavoProjeto">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataNascimento>2002-02-14T00:00:00</dataNascimento>
+      <nome>bruno</nome>
+      <nomeRua>aw</nomeRua>
+      <numCasa>123</numCasa>
+      <numeroDocumento>1</numeroDocumento>
+    </CadastroPessoa>
+    <CadastroPessoa>
+      <dataNascimento>1597-05-12T00:00:00</dataNascimento>
+      <nome>pietro</nome>
+      <nomeRua>awd</nomeRua>
+      <numCasa>123</numCasa>
+      <numeroDocumento>2</numeroDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>

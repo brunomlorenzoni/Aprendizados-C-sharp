@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\bin\Debug\classe abstratc - herença.exe.config
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\bin\Debug\classe abstratc - herença.exe
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\bin\Debug\classe abstratc - herença.pdb
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\obj\Debug\classe abstratc - herença.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\obj\Debug\classe abstratc - herença.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\obj\Debug\classe abstratc - herença.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\obj\Debug\classe abstratc - herença.exe
+C:\Users\lab102a\source\POO\classe abstratc - herença\classe abstratc - herença\obj\Debug\classe abstratc - herença.pdb

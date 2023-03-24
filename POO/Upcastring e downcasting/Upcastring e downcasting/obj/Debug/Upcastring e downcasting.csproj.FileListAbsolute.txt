@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\bin\Debug\Upcastring e downcasting.exe.config
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\bin\Debug\Upcastring e downcasting.exe
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\bin\Debug\Upcastring e downcasting.pdb
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\obj\Debug\Upcastring e downcasting.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\obj\Debug\Upcastring e downcasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\obj\Debug\Upcastring e downcasting.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\obj\Debug\Upcastring e downcasting.exe
+C:\Users\lab102a\source\POO\Upcastring e downcasting\Upcastring e downcasting\obj\Debug\Upcastring e downcasting.pdb

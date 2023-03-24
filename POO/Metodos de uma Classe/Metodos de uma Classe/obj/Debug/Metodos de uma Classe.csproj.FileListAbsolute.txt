@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\bin\Debug\Metodos de uma Classe.exe.config
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\bin\Debug\Metodos de uma Classe.exe
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\bin\Debug\Metodos de uma Classe.pdb
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\obj\Debug\Metodos de uma Classe.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\obj\Debug\Metodos de uma Classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\obj\Debug\Metodos de uma Classe.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\obj\Debug\Metodos de uma Classe.exe
+C:\Users\lab102a\source\POO\Metodos de uma Classe\Metodos de uma Classe\obj\Debug\Metodos de uma Classe.pdb

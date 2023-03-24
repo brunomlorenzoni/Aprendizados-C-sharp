@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\projeto5\projeto5\bin\Debug\projeto5.exe.config
+C:\Users\lab102a\source\repos\projeto5\projeto5\bin\Debug\projeto5.exe
+C:\Users\lab102a\source\repos\projeto5\projeto5\bin\Debug\projeto5.pdb
+C:\Users\lab102a\source\repos\projeto5\projeto5\obj\Debug\projeto5.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\projeto5\projeto5\obj\Debug\projeto5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\projeto5\projeto5\obj\Debug\projeto5.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\projeto5\projeto5\obj\Debug\projeto5.exe
+C:\Users\lab102a\source\repos\projeto5\projeto5\obj\Debug\projeto5.pdb

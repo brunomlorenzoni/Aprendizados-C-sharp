@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\bin\Debug\pilaEfila.exe.config
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\bin\Debug\pilaEfila.exe
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\bin\Debug\pilaEfila.pdb
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\obj\Debug\pilaEfila.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\obj\Debug\pilaEfila.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\obj\Debug\pilaEfila.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\obj\Debug\pilaEfila.exe
+C:\Users\lab102a\source\repos\pilaEfila\pilaEfila\obj\Debug\pilaEfila.pdb

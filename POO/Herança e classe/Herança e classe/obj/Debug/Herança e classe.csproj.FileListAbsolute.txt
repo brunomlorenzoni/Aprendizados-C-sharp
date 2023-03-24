@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\bin\Debug\Herança e classe.exe.config
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\bin\Debug\Herança e classe.exe
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\bin\Debug\Herança e classe.pdb
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\obj\Debug\Herança e classe.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\obj\Debug\Herança e classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\obj\Debug\Herança e classe.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\obj\Debug\Herança e classe.exe
+C:\Users\lab102a\source\POO\Herança e classe\Herança e classe\obj\Debug\Herança e classe.pdb

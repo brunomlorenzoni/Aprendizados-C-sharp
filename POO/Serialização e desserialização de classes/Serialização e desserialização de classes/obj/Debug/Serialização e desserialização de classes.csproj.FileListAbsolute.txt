@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\bin\Debug\Serialização e desserialização de classes.exe.config
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\bin\Debug\Serialização e desserialização de classes.exe
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\bin\Debug\Serialização e desserialização de classes.pdb
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\obj\Debug\Serialização e desserialização de classes.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\obj\Debug\Serialização e desserialização de classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\obj\Debug\Serialização e desserialização de classes.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\obj\Debug\Serialização e desserialização de classes.exe
+C:\Users\lab102a\source\POO\Serialização e desserialização de classes\Serialização e desserialização de classes\obj\Debug\Serialização e desserialização de classes.pdb

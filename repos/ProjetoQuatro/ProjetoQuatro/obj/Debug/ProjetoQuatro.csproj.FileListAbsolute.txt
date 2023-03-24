@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\bin\Debug\ProjetoQuatro.exe.config
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\bin\Debug\ProjetoQuatro.exe
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\bin\Debug\ProjetoQuatro.pdb
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\obj\Debug\ProjetoQuatro.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\obj\Debug\ProjetoQuatro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\obj\Debug\ProjetoQuatro.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\obj\Debug\ProjetoQuatro.exe
+C:\Users\lab102a\source\repos\ProjetoQuatro\ProjetoQuatro\obj\Debug\ProjetoQuatro.pdb

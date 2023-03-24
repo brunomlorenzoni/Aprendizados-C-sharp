@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Cachorro xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Serializa%C3%A7%C3%A3o_e_desserializa%C3%A7%C3%A3o_de_classes">
+  <Nome>bilu</Nome>
+  <cor>verde</cor>
+  <raca>vadio</raca>
+</Cachorro>

@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Excessao\Excessao\bin\Debug\Excessao.exe.config
+C:\Users\lab102a\source\repos\Excessao\Excessao\bin\Debug\Excessao.exe
+C:\Users\lab102a\source\repos\Excessao\Excessao\bin\Debug\Excessao.pdb
+C:\Users\lab102a\source\repos\Excessao\Excessao\obj\Debug\Excessao.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Excessao\Excessao\obj\Debug\Excessao.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Excessao\Excessao\obj\Debug\Excessao.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Excessao\Excessao\obj\Debug\Excessao.exe
+C:\Users\lab102a\source\repos\Excessao\Excessao\obj\Debug\Excessao.pdb

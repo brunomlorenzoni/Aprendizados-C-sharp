@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\bin\Debug\ManipulaçãoStrings.exe.config
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\bin\Debug\ManipulaçãoStrings.exe
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\bin\Debug\ManipulaçãoStrings.pdb
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\obj\Debug\ManipulaçãoStrings.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\obj\Debug\ManipulaçãoStrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\obj\Debug\ManipulaçãoStrings.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\obj\Debug\ManipulaçãoStrings.exe
+C:\Users\lab102a\source\repos\ManipulaçãoStrings\ManipulaçãoStrings\obj\Debug\ManipulaçãoStrings.pdb

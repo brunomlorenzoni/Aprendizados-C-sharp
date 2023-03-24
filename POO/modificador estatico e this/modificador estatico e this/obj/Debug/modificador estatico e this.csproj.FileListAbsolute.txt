@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\bin\Debug\modificador estatico e this.exe.config
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\bin\Debug\modificador estatico e this.exe
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\bin\Debug\modificador estatico e this.pdb
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\obj\Debug\modificador estatico e this.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\obj\Debug\modificador estatico e this.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\obj\Debug\modificador estatico e this.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\obj\Debug\modificador estatico e this.exe
+C:\Users\lab102a\source\POO\modificador estatico e this\modificador estatico e this\obj\Debug\modificador estatico e this.pdb

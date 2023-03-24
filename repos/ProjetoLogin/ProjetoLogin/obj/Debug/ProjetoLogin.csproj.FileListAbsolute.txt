@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\lab102a\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb

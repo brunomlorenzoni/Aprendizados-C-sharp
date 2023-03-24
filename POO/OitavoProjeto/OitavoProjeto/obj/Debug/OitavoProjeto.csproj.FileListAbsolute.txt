@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\obj\Debug\OitavoProjeto.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\obj\Debug\OitavoProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\obj\Debug\OitavoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\bin\Debug\OitavoProjeto.exe.config
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\bin\Debug\OitavoProjeto.exe
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\bin\Debug\OitavoProjeto.pdb
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\obj\Debug\OitavoProjeto.exe
+C:\Users\lab102a\source\POO\OitavoProjeto\OitavoProjeto\obj\Debug\OitavoProjeto.pdb

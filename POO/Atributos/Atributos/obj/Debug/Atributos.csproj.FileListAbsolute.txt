@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\POO\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\lab102a\source\POO\Atributos\Atributos\bin\Debug\Atributos.exe
+C:\Users\lab102a\source\POO\Atributos\Atributos\bin\Debug\Atributos.pdb
+C:\Users\lab102a\source\POO\Atributos\Atributos\obj\Debug\Atributos.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\POO\Atributos\Atributos\obj\Debug\Atributos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\POO\Atributos\Atributos\obj\Debug\Atributos.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\POO\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\lab102a\source\POO\Atributos\Atributos\obj\Debug\Atributos.pdb

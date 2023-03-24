@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\bin\Debug\ManipulaçãoArquivo.exe.config
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\bin\Debug\ManipulaçãoArquivo.exe
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\bin\Debug\ManipulaçãoArquivo.pdb
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\obj\Debug\ManipulaçãoArquivo.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\obj\Debug\ManipulaçãoArquivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\obj\Debug\ManipulaçãoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\obj\Debug\ManipulaçãoArquivo.exe
+C:\Users\lab102a\source\repos\ManipulaçãoArquivo\ManipulaçãoArquivo\obj\Debug\ManipulaçãoArquivo.pdb
